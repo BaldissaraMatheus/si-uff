@@ -9,3 +9,9 @@ Lista resumos, trabalhos e diferentes materiais de estudo do curso de Sistemas d
 ## Desenvolvimento Web
 
 * [Rede social tipo Twitter com Jsps, Servlets e stack básico de front end (HTML, CSS, Js)](https://github.com/BaldissaraMatheus/simple-social-media)
+
+## Programação Orientada a Objeto
+
+* [Projeto POO - Fábrica de bolos](https://github.com/ArturLadeiraAndrade/trabalho_POO)
+
+* [Exercícios resolvidos](https://github.com/BaldissaraMatheus/poo-uff)
