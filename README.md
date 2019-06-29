@@ -15,3 +15,9 @@ Lista resumos, trabalhos e diferentes materiais de estudo do curso de Sistemas d
 * [Projeto POO - Fábrica de bolos](https://github.com/ArturLadeiraAndrade/trabalho_POO)
 
 * [Exercícios resolvidos](https://github.com/BaldissaraMatheus/poo-uff)
+
+## Estrutura de Dados
+
+* [Exercícios resolvidos](https://github.com/BaldissaraMatheus/listas-ed)
+
+* [Algoritmos de Ordenação](https://github.com/BaldissaraMatheus/algoritmos-ordenacao)
