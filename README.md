@@ -9,7 +9,7 @@ Lista resumos, trabalhos e diferentes materiais de estudo do curso de Sistemas d
 ## Programação Orientada a Objeto
 * [Exercícios resolvidos](https://github.com/BaldissaraMatheus/poo-uff)
 
-* [Projeto POO - Fábrica de bolos](https://github.com/BaldissaraMatheus/trabalho_POO)
+* [Projeto POO - Fábrica de bolos](https://github.com/BaldissaraMatheus/fabrica-de-bolo)
 
 ## Representação da Informação e do Conhecimento
 * [Resumo para a AV1 - Dado, informação e conhecimento, Organização da informação, Organização do Conhecimento, Representação da informação x Representação do conhecimento, Linguagens Documentárias](https://github.com/BaldissaraMatheus/resumo-representacao-da-informacao)
